@@ -23,3 +23,7 @@
 * Utilizando el boton derecho del mouse encima del nodo padre utilizaremos la opcion "Conectar nodo" luego seleccionaremos el nodo hijo con el boton derecho del mouse y utilizaremos la opcion "Terminar conexion"
   ![image](https://github.com/user-attachments/assets/e149f7a1-8af7-4527-bf68-e41d43bc2789)
 
+#### Guardado y carga de datos 
+* Muchas veces pasa que tardamos en desarrollar nuestra logica , para eso tenemos la opcion de "Guardar Data" que nos permite guardar todos los datos para poder seguir luego con el armado del grafo.
+  ![image](https://github.com/user-attachments/assets/ddc1f03d-a7b1-464b-aeaf-081b4a412989)
+
